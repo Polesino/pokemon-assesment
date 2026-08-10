@@ -1,0 +1,25 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Build Output - Java / Maven
+**/target/
+**/*.class
+**/*.jar
+
+# Frontend Dependencies & Build Output
+**/node_modules/
+**/dist/
+**/build/
+.eslintcache
+
+# Environment & Logs
+*.log
+.env
+.env.local
